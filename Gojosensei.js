@@ -229,7 +229,7 @@ const reply = (teks) => {
             console.log('Limit Reseted')
         }, {
             scheduled: true,
-            timezone: "Asia/Kolkata"
+            timezone: "Asia/Makassar"
         })
         
 	//auto set bio\\
@@ -625,9 +625,9 @@ case 'mining': case 'mine':{
 if (q.includes('--help')) return reply(examkosong) 
   if (!isInventory){ addInventori(m.sender) }
   if (isCekDarah < 1) return reply(`You're Tired!, Try To Heal Using Potions`) 
-  let besi = [1,2,5,0,3,0,1,1,4,1,5,0,0]
-  let emas = [0,1,2,3,0,0,0,1,1,0,0,2]
-  let emerald = [0,0,1,0,0,1,0,2,1,0,0,1]
+  let besi = [10,20,50,23,23,10,25,15,42,19,20,30,46,0,0]
+  let emas = [10,15,20,33,25,20,10,15,30,0,0,2,1,9,6,5,5]
+  let emerald = [0,0,1,0,0,1,0,2,1,0,0,,10,15,4,5,3,29,20,10,15,19,39,40,28,501]
   var besinya = besi[Math.floor(Math.random() * besi.length)]  
   var emasnya = emas[Math.floor(Math.random() * emas.length)]  
   var emeraldnya = emerald[Math.floor(Math.random() * emerald.length)]  
