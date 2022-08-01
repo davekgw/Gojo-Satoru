@@ -18,9 +18,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['089631008798']
-global.premium = ['089631008798']
-global.ownernomer = '089631008798'
+global.owner = ['6289631008798']
+global.premium = ['6289631008798']
+global.ownernomer = '6289631008798'
 global.ownername = '𝙳𝚎𝚙🐦'
 global.botname = '𝚂𝚖𝚒𝚕𝚎𝚢𝙱𝚘𝚝𝚣'
 global.footer = '©𝙳𝚟'
@@ -48,7 +48,7 @@ global.mess = {
     global.limitawal = {
     premium: "Infinity",
     free: 12,
-    monayawal: 1000
+    monayawal: 2000
 }
    global.rpg = {
    darahawal: 100,
@@ -56,7 +56,7 @@ global.mess = {
    goldawal: 10,
    emeraldawal: 5,
    umpanawal: 5,
-   potionawal: 1
+   potionawal: 2
 }
 global.thumb = fs.readFileSync('./GojoMedia/gojo.jpg')
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
